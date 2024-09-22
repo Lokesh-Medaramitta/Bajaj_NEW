@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Bajaj_NEW/static/css/main.e6c13ad2.css",
+    "main.js": "/Bajaj_NEW/static/js/main.b407d254.js",
+    "static/js/453.11286fb1.chunk.js": "/Bajaj_NEW/static/js/453.11286fb1.chunk.js",
+    "index.html": "/Bajaj_NEW/index.html",
+    "main.e6c13ad2.css.map": "/Bajaj_NEW/static/css/main.e6c13ad2.css.map",
+    "main.b407d254.js.map": "/Bajaj_NEW/static/js/main.b407d254.js.map",
+    "453.11286fb1.chunk.js.map": "/Bajaj_NEW/static/js/453.11286fb1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b407d254.js"
+  ]
+}
